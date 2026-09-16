@@ -6,7 +6,7 @@
   
  ///^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  //                                                                      ||
- //                          . PROJECT  BAHASA C.                          ||
+ //                          . PROJECT  BAHASA C.                        ||
  //                                                                      ||
  //                                                                      ||                          
  //               NAMA     : MIFTAHUL REZKY NITAMI                       ||      
