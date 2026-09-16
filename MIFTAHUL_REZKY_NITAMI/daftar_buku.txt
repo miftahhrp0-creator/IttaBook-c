@@ -1,0 +1,6 @@
+11	Areksa              	Ita                 	16
+12  	Laskar Pelangi      	Siapaja             	20  
+13  	Tentang Hujan       	Aini                	20  
+14  	Cooking             	Anesa               	20  
+15  	Ke Muhammadiyahan   	Ahmaddahlan         	20  
+16  	Belajar Ngoding     	Fia                 	20  

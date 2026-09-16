@@ -1,0 +1,9 @@
+                        I T T A B O O K
+
+        Ittabook dibuat bukan hanya untuk mengelola buku,
+        tetapi untuk merawat minat baca,
+        menjaga keteraturan,
+        dan membuktikan bahwa program sederhana
+        dapat membawa dampak yang berarti.
+
+        
