@@ -50,7 +50,7 @@ void gambar_menu(int tekan);
 void keluar();
 
 char filename[100];
-char bul[][10] = {"Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"};
+char bul[][10] = {"Jenuari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"};
 char nama[100];
 char usia[100];
 char nomor[100];
